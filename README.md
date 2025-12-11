@@ -22,7 +22,7 @@ To use `netprobe` globally in your terminal (like `ls` or `git`), follow the ins
 
 ### Option 1: Download Binary (Recommended)
 
-Go to the [**Releases Page**](https://github.com/ton-pseudo/netprobe/releases) and download the file for your system.
+Go to the [**Releases Page**](https://github.com/kiy0ni/netprobe/releases) and download the file for your system.
 
 #### 🍎 macOS / 🐧 Linux
 
