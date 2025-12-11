@@ -1,0 +1,11 @@
+# Build file
+/target/
+
+# System file
+**/.DS_Store
+*.swp
+
+# IDE
+.idea/
+.vscode/
+*.iml
